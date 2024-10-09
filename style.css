@@ -11,6 +11,7 @@
     transition: 10000s;
     text-align: center;
     width: 300px;
+    position: fixed;
 }
 
 .img:active{
@@ -22,6 +23,6 @@
     display: flex;
     align-items: center;
     align-items: center;
-    height: 650px;
+    height: 680px;
     justify-content: center;
 }
