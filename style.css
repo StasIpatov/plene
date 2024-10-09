@@ -14,7 +14,7 @@
     position: fixed;
 }
 
-.img:active{
+.img:hover{
     transform: rotate(30000000000000000000000000000000000000000000000000000000000000turn);
 }
 
